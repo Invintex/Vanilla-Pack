@@ -1,0 +1,57 @@
+{
+  "name": "Faces",
+  "texture": {
+    "textures": [
+      {
+        "texture": "0.2.png",
+        "ideal": 0.2
+      },
+      {
+        "texture": "0.5.png",
+        "ideal": 0.5
+      },
+      {
+        "texture": "1.0.png",
+        "ideal": 1.0
+      },
+      {
+        "texture": "2.0.png",
+        "ideal": 2.0
+      },
+      {
+        "texture": "3.0.png",
+        "ideal": 3.0
+      },
+      {
+        "texture": "4.0.png",
+        "ideal": 4.0
+      },
+      {
+        "texture": "6.0.png",
+        "ideal": 6.0
+      }
+    ],
+    "border_Bottom": {
+      "uvSize": 0.0,
+      "sizeMode": "Aspect",
+      "size": 0.5
+    },
+    "border_Top": {
+      "uvSize": 0.0,
+      "sizeMode": "Aspect",
+      "size": 0.5
+    },
+    "center": {
+      "mode": "Stretch",
+      "sizeMode": "Aspect",
+      "size": 0.5,
+      "logoHeightPercent": 0.5
+    },
+    "fixedWidth": false,
+    "width": 1.0,
+    "flipToLight_X": true,
+    "flipToLight_Y": false,
+    "metalTexture": false,
+    "icon": null
+  }
+}
