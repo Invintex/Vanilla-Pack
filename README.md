@@ -1,5 +1,6 @@
 # Vanilla+ Textures and Parts Pack
 
+# Now in pack:
 ## Textures
 
 ### Color:
