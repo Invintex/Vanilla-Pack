@@ -2,25 +2,9 @@
 ## About the pack:
 This is the pack that will add some useful textures and parts in Spaceflight Simulator. Currently it have some textures and tanks. In future this pack will have some new RCS thrusters, new engines, fairings and more.
 ## How to install:
-**_This pack is only work on Steam. For using it you must have beta with build-in parts/skins loader. Password to it is available on `public-beta` on official SFS Discord server._**
+**_This pack is only work on Steam. For using it you must have beta with build-in parts/skins loader. Password to it is available on pinned masseges in `modding` channel on official SFS Discord server._**
 
-Go to [Releases](https://github.com/Invintex/Vanilla-Pack/releases) and dowload `Vanilla+.zip`. Once download, put `Parts` and `Skins` folders into `Spaceflight Simulator_Data/Custom Assets` folder (if you already have previous version of pack, choose replace all files) then launch the game and enjoy!
+Go to [Releases](https://github.com/Invintex/Vanilla-Pack/releases) and dowload `Vanilla+.pack`. Once download, put this file into `Spaceflight Simulator Game\Mods\Custom Assets\Parts` folder (if you already have previous version of pack, choose replace file) then launch the game and enjoy!
 
-You can found `Spaceflight Simulator_Data` in folder where you install steam in the next path: `Steam\steamapps\common\Spaceflight Simulator\Spaceflight Simulator Game\Spaceflight Simulator_Data`.
-# Screenshots:
-## Textures
-### Color:
-![image](https://user-images.githubusercontent.com/105835742/177000908-460e0bb2-c081-4f96-a23a-28b815010f2a.png)
-### Shadow:
-![image](https://user-images.githubusercontent.com/105835742/177000962-e81b0c31-c7f6-4ce7-a021-fffc785c779e.png)
-### Shape:
-![image](https://user-images.githubusercontent.com/105835742/177001036-37fcf23f-489c-4b8c-bb67-fa9336ebd322.png)
-## Parts
-### Half Sphere Tanks...
-![image](https://user-images.githubusercontent.com/105835742/177001658-9945c5af-3d96-4348-b5ef-03001cd4bf08.png)
-### ...with their own adaptation!
-![image](https://user-images.githubusercontent.com/105835742/177001710-5370f936-d12a-4020-bf2f-0a1e8940088a.png)
-### And some covered base tanks
-![image](https://user-images.githubusercontent.com/105835742/177001845-a78a6f7b-350d-462d-a65a-01a3a32f47a4.png)
-### Some engines shrouds to make your rocket look better
-![image](https://user-images.githubusercontent.com/105835742/179262261-5f843427-d665-4b1a-9902-5b8594329343.png)
+You can found `Spaceflight Simulator Game` in folder where you install steam in the next path: `Steam\steamapps\common\Spaceflight Simulator\Spaceflight Simulator Game`.
+
